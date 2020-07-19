@@ -1,3 +1,3 @@
 # plotly-charts
 sample data visualizations (plotly.js)
-Demo: 
+Demo:  https://benardcharumbira.github.io/plotly-charts/
